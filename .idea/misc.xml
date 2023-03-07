@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/q6359/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_intro.xml" value="0.22" />
-        <entry key="..\:/Users/q6359/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.3359375" />
+        <entry key="..\:/Users/q6359/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/q6359/AndroidStudioProjects/MusicApp/app/src/main/res/layout/activity_splash.xml" value="0.3359375" />
+        <entry key="..\:/Users/q6359/AndroidStudioProjects/MusicApp/app/src/main/res/layout/text_rowitem.xml" value="0.15186680121089807" />
       </map>
     </option>
   </component>
